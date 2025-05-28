@@ -7,7 +7,7 @@ I write applications in React and typescript, i can also use vanilla JS and have
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,scss)](https://skillicons.dev)
 
 ## Portfolio
-Made with another developer (comercial):
+Outsource:
 - [a1exevs/stroy-in-tekh](https://github.com/a1exevs/stroy-in-tekh) (https://www.sit36.ru/ )  (NextJS)
 - [a1exevs/lipsync-calibrator](https://github.com/a1exevs/lipsync-calibrator) (React)
 
