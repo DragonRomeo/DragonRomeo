@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## About
-I write applications in React and typescript, i can also use vanilla JS and have experience in Next Js.
+I write applications in React and Typescript. Have some experience in Next Js.
+I accept orders for small projects with an employment of 2-4 hours a day.
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,scss)](https://skillicons.dev)
