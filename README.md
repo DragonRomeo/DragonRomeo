@@ -12,6 +12,9 @@ Orders (team development):
 - [a1exevs/stroy-in-tekh](https://github.com/a1exevs/stroy-in-tekh) (https://www.sit36.ru/ )  (NextJS)
 - [a1exevs/lipsync-calibrator](https://github.com/a1exevs/lipsync-calibrator) (React)
 
+My pets:
+- https://github.com/DragonRomeo/weather (React)
+
 ## Contacts
 🪐 You can reach me via the following links:
 - https://t.me/Penguin_Romeo
