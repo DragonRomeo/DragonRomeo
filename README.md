@@ -8,7 +8,7 @@ I accept orders for small projects with an employment of 2-4 hours a day.
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,scss)](https://skillicons.dev)
 
 ## Portfolio
-Outsource:
+Orders (team development):
 - [a1exevs/stroy-in-tekh](https://github.com/a1exevs/stroy-in-tekh) (https://www.sit36.ru/ )  (NextJS)
 - [a1exevs/lipsync-calibrator](https://github.com/a1exevs/lipsync-calibrator) (React)
 
