@@ -9,7 +9,7 @@ I accept orders for small projects with an employment of 2-4 hours a day.
 
 ## Portfolio
 Orders (team development):
-- [a1exevs/stroy-in-tekh](https://github.com/a1exevs/stroy-in-tekh) (https://www.sit36.ru/ )  (NextJS)
+- [a1exevs/stroy-in-tekh](https://github.com/a1exevs/stroy-in-tekh) (deploy: https://www.sit36.ru/ )  (NextJS)
 - [a1exevs/lipsync-calibrator](https://github.com/a1exevs/lipsync-calibrator) (React)
 
 My pets:
